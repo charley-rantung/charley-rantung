@@ -4,7 +4,7 @@ Hi 👋 My name is Charley Rantung
 Mobile and Web Developer
 ------------------------
 
-i am a fresh graduate from klabat university. I am interested in web and mobile based application development. I enjoy learning new technology. I challenge myself to be able to create a large and useful application, which can help solve the problems of the people around me.
+i am a fresh graduate from Universitas Klabat. I am interested in web and mobile based application development. I enjoy learning new technology. I challenge myself to be able to create a large and useful application, which can help solve the problems of the people around me.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Github](http://github.com/charley-rantung)
